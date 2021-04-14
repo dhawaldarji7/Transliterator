@@ -1,6 +1,8 @@
 # Transliterator
 A machine transliterator for Hindi-English transliteration using CRF's and RNN's.
 
+This project was developed as a final project for the CS880: Machine Learning for Sequences and Text course at the Univeristy of New Hampshire
+
 Instructions on running this project.
 
 The project is divided into parts: 1) CRF 2) Neural Networks
